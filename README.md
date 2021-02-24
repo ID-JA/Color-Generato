@@ -5,7 +5,7 @@
 ![alt text](https://firebasestorage.googleapis.com/v0/b/my-api-d4893.appspot.com/o/Webp.net-resizeimage.png?alt=media&token=8c668a68-daf8-4c89-ad5f-6fa2ac8557f9 "Logo Title Text 1")
 
 Color Generator is an app, give you Different Shades and tints of a given color.
-I used ⚛️ [ReactJS](https://reactjs.org/) Freamwork and [Value.js](https://www.npmjs.com/package/value-js) Library
+I used ⚛️ [ReactJS](https://reactjs.org/) Freamwork and [Value.js](https://www.npmjs.com/package/value-js) Library to make it Works
 
 
 
@@ -27,4 +27,4 @@ Install the dependencies
 cd 8-Color-Generator
 npm i
 ```
-#### Happy Hacking
+#### 💻Happy Hacking 💻
