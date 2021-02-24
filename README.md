@@ -27,4 +27,4 @@ Install the dependencies
 cd 8-Color-Generator
 npm i
 ```
-#### 💻Happy Hacking 💻
+#### 💻 Happy Hacking 💻
