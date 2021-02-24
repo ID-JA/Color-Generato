@@ -1,5 +1,6 @@
 # Color Generator
 ## _Simple And Easy_
+
 [Demo](https://color-generator-react-id.netlify.app/) 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/my-api-d4893.appspot.com/o/Webp.net-resizeimage.png?alt=media&token=8c668a68-daf8-4c89-ad5f-6fa2ac8557f9 "Logo Title Text 1")
 
@@ -26,4 +27,4 @@ Install the dependencies
 cd 8-Color-Generator
 npm i
 ```
-#Happy Hacking
+#### Happy Hacking
